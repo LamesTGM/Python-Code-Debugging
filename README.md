@@ -1,23 +1,28 @@
 # Python Code Debugging
 
 ## Description
-Debugged and optimized Python scripts to improve functionality and performance.
+This project demonstrates my ability to debug, refactor, and optimize Python scripts. The goal was to identify and resolve bugs, improve code readability and performance, and ensure reliability through unit testing.
 
 ## Tools Used
-- Python debugging tools (breakpoints, logging, exception handling)
-- Unit testing with `unittest` or `pytest`
-- Code refactoring techniques
+- **Python**: Debugging, refactoring, and unit testing.
+- **Debugging Tools**: Breakpoints, logging, exception handling.
+- **Testing Framework**: `unittest` for writing and running unit tests.
 
-## Actions
-- Identified and resolved bugs in Python code.
-- Refactored code to enhance readability, maintainability, and performance.
-- Implemented unit tests to ensure code reliability.
+## Steps
+1. **Debugging**:
+   - Identified and resolved bugs in the Python script using debugging tools and techniques.
+   - Used breakpoints and logging to trace and fix issues.
+
+2. **Refactoring**:
+   - Improved code readability and maintainability by refactoring the script.
+   - Optimized performance by reducing redundant code and improving algorithms.
+
+3. **Unit Testing**:
+   - Wrote unit tests using the `unittest` framework to ensure code reliability.
+   - Verified that the script meets project requirements and handles edge cases.
 
 ## Outcome
-Delivered robust and efficient Python scripts that met project requirements and reduced runtime errors.
+- Delivered a robust and efficient Python script with reduced runtime errors.
+- Improved code maintainability and performance.
+- Ensured reliability through comprehensive unit testing.
 
-## How to Use
-1. Clone this repository.
-2. Navigate to the `python-code-debugging` folder.
-3. Run the script: `python script.py`.
-4. Run unit tests: `python -m unittest tests/test_script.py`.
